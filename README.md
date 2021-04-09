@@ -7,8 +7,7 @@
 
 
 <kbd>HTML</kbd>  
-<kbd>CSS</kbd>  
-<kbd>JavaScript</kbd>  
+<kbd>CSS</kbd>
 
 &nbsp;
 &nbsp;
