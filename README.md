@@ -6,6 +6,6 @@
 <kbd>CSS</kbd>
 <kbd>JavaScript</kbd>
 
-&nbsp
+&nbsp;
 
 :link: 
